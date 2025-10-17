@@ -1,0 +1,4 @@
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

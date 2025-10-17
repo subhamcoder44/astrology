@@ -1,0 +1,15 @@
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/CMakeFiles/appmodules.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/CMakeFiles/edit_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/CMakeFiles/rebuild_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/edit_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/rebuild_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/edit_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/RNImagePickerSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+S:/binod_app/astrology/android/app/.cxx/Debug/o185f4q6/x86_64/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir
